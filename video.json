@@ -1,0 +1,15 @@
+{
+    "id": "1",
+    "posters": [
+        "https://m.media-amazon.com/images/M/MV5BMjNlMTQwODMtODhlZi00ZjUxLWIwY2EtZTc0NTQwMDIyOGFmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1280_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjM4MzJjOTktNjc3Ni00YzA1LWExN2EtNDU0NTViY2M0ODBhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1280_.jpg",
+        "https://m.media-amazon.com/images/M/MV5BMjVlMWUxZDctMWI2NS00MTcyLTgxNjktOWI3MjQ5N2NmOGIyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_FMjpg_UX675_.jpg"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjVlMWUxZDctMWI2NS00MTcyLTgxNjktOWI3MjQ5N2NmOGIyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_FMjpg_UX675_.jpg",
+    "title": "Godzilla x Kong: The New Empire",
+    "trailer": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "director": {
+        "firstname": "Allen",
+        "lastname": "Chuang"
+    }
+}
